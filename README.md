@@ -5,6 +5,17 @@
 * Run:
     * npm start
 
+## Learning
+
+* Environment 
+    * Device:  Nexus 5 device emulation
+    * Network: 1.6 Mbps network throttling
+
+Demo
+
+![default-foic](https://user-images.githubusercontent.com/6231516/28908153-86131944-782a-11e7-954c-3ce58cea4d08.gif)
+
+
 ## Terminology
 
 FOIC - flash of invisible content.
