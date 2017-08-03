@@ -11,7 +11,7 @@
     * Device:  Nexus 5 device emulation
     * Network: 1.6 Mbps network throttling
 
-Demo
+Demo `font-display: auto;`
 
 ![default-foic](https://user-images.githubusercontent.com/6231516/28908153-86131944-782a-11e7-954c-3ce58cea4d08.gif)
 
@@ -38,3 +38,7 @@ Safari             | N/A          | N/A       | N/A
 
 
 More - [css-font-timeout](https://github.com/igrigorik/css-font-timeout)
+
+### font-display
+
+The font-display descriptor determines how a font face is displayed based on whether and when it is downloaded and ready to use. [More](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display)
