@@ -2,8 +2,9 @@
 
 ## Getting started
 
+* Clone: `gi clone https://github.com/denar90/lets-play-fonts && cd lets-play-fonts`
 * Run:
-    * npm start
+    * `npm start`
 
 ## Learning
 
@@ -38,3 +39,67 @@ Safari             | N/A          | N/A       | N/A
 
 
 More - [css-font-timeout](https://github.com/igrigorik/css-font-timeout)
+
+### font-display
+
+[Read more](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display)
+
+----
+
+* font-display: auto;
+
+Example:
+
+![font-display-auto](https://user-images.githubusercontent.com/6231516/28987206-ffd48864-7972-11e7-8b6a-fb17d121bea4.gif)
+
+Wanna try it?
+
+`git checkout font-display-auto`
+
+----
+
+* font-display: block;
+
+Example:
+
+![font-display-block](https://user-images.githubusercontent.com/6231516/28987205-ffd3201e-7972-11e7-9a83-475b6176a07a.gif)
+
+Wanna try it?
+
+`git checkout font-display-block`
+
+----
+
+* font-display: swap;
+
+Example:
+
+![font-display-swap](https://user-images.githubusercontent.com/6231516/28987216-05cf23d2-7973-11e7-9ce8-b041c69377d5.gif)
+
+Wanna try it?
+
+`git checkout font-display-swap`
+
+----
+
+* font-display: fallback;
+
+Example:
+
+![font-display-fallback](https://user-images.githubusercontent.com/6231516/28987215-05b49f1c-7973-11e7-99db-2b736ea3fb08.gif)
+
+Wanna try it?
+
+`git checkout font-display-fallback`
+
+----
+
+* font-display: optional;
+
+Example:
+
+![font-display-optional](https://user-images.githubusercontent.com/6231516/28987214-05b43554-7973-11e7-9a6e-d7dd1227ed63.gif)
+
+Wanna try it?
+
+`git checkout font-display-optional`
