@@ -2,7 +2,7 @@
 
 ## Getting started
 
-* Clone: `gi clone https://github.com/denar90/lets-play-fonts && cd lets-play-fonts`
+* Clone: `git clone https://github.com/denar90/lets-play-fonts && cd lets-play-fonts`
 * Run:
     * `npm start`
 
